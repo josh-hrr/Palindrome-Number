@@ -5,11 +5,12 @@ let isPalindrome = function(x) {
 
     if(x == newXReverseJoin){
         return true;
-    }else{
+    }else{ 
         return false;
     }
 
 };
+
 
 
 let x = -121;
